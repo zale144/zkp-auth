@@ -20,7 +20,7 @@ This application comprises two main components: a **server** and a **client**. T
 ## Getting Started
 
 ### Prerequisites
-- Go (version 1.15 or higher)
+- Go (version 1.21 or higher)
 - gRPC and Protocol Buffers 
 
 ### Installation
