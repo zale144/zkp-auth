@@ -14,8 +14,8 @@ This application comprises two main components: a **server** and a **client**. T
 **Verification**: Validates the client's response to the challenge to authenticate the user. <br>
 
 ### Client
-**Register**: Generates a unique secret and corresponding public keys, sending the public keys to the server for registration.
-**Login**: Initiates an authentication challenge with the server and responds to the server's challenge to complete the authentication process.
+**Register**: Generates a unique secret and corresponding public keys, sending the public keys to the server for registration. <br>
+**Login**: Initiates an authentication challenge with the server and responds to the server's challenge to complete the authentication process. <br>
 
 ## Getting Started
 
